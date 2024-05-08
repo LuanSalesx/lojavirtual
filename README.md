@@ -1,2 +1,2 @@
 # lojavirtual
-texto de alteração
+texto de alteração (2)
